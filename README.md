@@ -1,9 +1,6 @@
 # claude-plugins
 
-Marketplace interno de plugins para o Claude Code.
-
-Repositório privado: quem tem acesso a ele instala os plugins; quem não tem, não.
-É esse o controle de acesso — não existe restrição por domínio de e-mail no Claude Code.
+Marketplace de plugins para o Claude Code.
 
 ## Instalação
 
