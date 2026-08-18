@@ -1,0 +1,13 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "ManeMaria"
+  },
+  "plugins": [
+    {
+      "name": "api-security-audit",
+      "source": "./plugins/api-security-audit",
+      "description": "Audita a postura de segurança de uma API backend contra o OWASP API Security Top 10. Varre o repositório inteiro, confirma achados com subagentes em paralelo e gera o roteiro dos testes que só rodam com a API no ar."
+    }
+  ]
+}

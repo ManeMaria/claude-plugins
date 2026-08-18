@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "api-security-audit",
+  "displayName": "API Security Audit",
+  "version": "1.0.0",
+  "description": "Auditoria de postura de segurança de APIs backend contra o OWASP API Security Top 10 2023 e o OWASP Top 10 2025. Agnóstica de linguagem. Separa o que é verificável estaticamente do que exige teste em runtime.",
+  "author": {
+    "name": "ManeMaria"
+  },
+  "license": "MIT",
+  "keywords": ["security", "owasp", "api", "pentest", "audit", "backend"]
+}
